@@ -7,9 +7,3 @@ Pueden hacer lo que quieran...
 ### Actualizado desde mi repositorio local
 Este es un mensaje editado completamente desde la aplicacion
 
-### Prueba
-<<<<<<< HEAD
-dklkdnsknslamsdklmsdmsdllmsdlmsalksmlksdmalkmsdlñsdañdkmsdalkmdas
-=======
-dsknldsmlsmsl sl sñs{,ss,sdls}dkams
->>>>>>> Una prueba mas
